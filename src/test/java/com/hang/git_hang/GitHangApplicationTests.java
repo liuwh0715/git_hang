@@ -13,6 +13,7 @@ public class GitHangApplicationTests {
     public void contextLoads() {
         System.out.println("-----");
         System.out.println("++++dev++++");
+        System.out.println("++++dev++++++++");
     }
 
 }
