@@ -17,6 +17,7 @@ public class GitHangApplicationTests {
         System.out.println("++++github++++++++");
         System.out.println("++++bendi++++++++");
         System.out.println("++++B提交++++++++");
+        int a = 11;
     }
 
 }
